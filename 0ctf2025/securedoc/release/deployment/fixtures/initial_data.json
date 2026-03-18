@@ -1,0 +1,26 @@
+[
+  {
+    "model": "docs.miniocredential",
+    "pk": 1,
+    "fields": {
+      "name": "document-service-admin",
+      "access_key": "document-service",
+      "secret_key": "5xOluxCoKRSYByBn3twWHThKUC8SfzmW",
+      "description": "",
+      "is_service_account": true,
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "docs.miniocredential",
+    "pk": 2,
+    "fields": {
+      "name": "user-manager",
+      "access_key": "user-manager",
+      "secret_key": "q6FqTclC0dRbSYw36S95YhvqNeOAWhoV",
+      "description": "",
+      "is_service_account": false,
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  }
+]
